@@ -5,7 +5,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on AgFlow SA
-- 🌱 I’m currently learning R and GoLang
 - 💬 Ask me about Data Analyst staff
 - 📫 How to reach me: via Github
 - 😄 Pronouns: he/him
